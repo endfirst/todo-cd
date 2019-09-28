@@ -4,6 +4,6 @@
 
 <style scoped>
 h1 {
-	color: lightblue;
+	color: red;
 }
 </style>
